@@ -1,0 +1,13 @@
+h1{
+    color: white;
+}
+
+.principal_container{
+    margin: 50px;
+}
+
+.cards-container{
+    margin: 30px;
+    display: flex;
+    flex-wrap: wrap;
+}
